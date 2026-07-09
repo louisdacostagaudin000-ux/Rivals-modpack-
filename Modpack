@@ -1271,16 +1271,13 @@
       "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/Minecraft-Bold.otf",
       "mode": "cdn",
       "enabled": true
-},
-    {
-      "name": "death sound -> tnt explosion",
-      "replace_ids": [
-        17016581922
-      ],
+{
+      "name": "Tnt sound",
+      "replace_ids": [ 9114223147 ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/kill3_wither_death.ogg"
-},
+      "cdn_url": "https://raw.githubusercontent.com/louisdacostagaudin000-ux/Rivals-modpack-/main/Projet%20Rivals/Minecraft%20TNT%20Explosion%20-%20Sound%20Effect%20(HD).mp3"
+    },
     {
       "name": "Skybox - Back",
       "replace_ids": [ 162002015 ],
@@ -1322,13 +1319,13 @@
       "mode": "cdn",
       "enabled": true,
       "cdn_url": "https://raw.githubusercontent.com/louisdacostagaudin000-ux/Rivals-modpack-/main/Projet%20Rivals/sky512_up.png"
-},
+    },
     {
-      "name": "Global Shiny Glass Wrap",
-      "replace_ids": [ 10601713413, 5025062402 ],
+      "name": "Global Glass Wrap",
+      "replace_ids": [ 10601713413, 5025062402, 5025403191 ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/shourya-fx/Rivals-dark-texture/refs/heads/main/white.png"
+      "cdn_url": "https://raw.githubusercontent.com/shourya-fx/Rivals-dark-texture/refs/heads/main/transparent.png"
     }
   ]
 }
