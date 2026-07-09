@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Diamond Sword 3D Blade",
+    "replace_ids": [ 17924403067 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/weapons/melee/diamond_sword/blade.mesh"
+  },
+  {
+    "name": "Diamond Sword 3D Guard",
+    "replace_ids": [ 17924402325 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/weapons/melee/diamond_sword/guard.mesh"
+  },
+  {
+    "name": "Diamond Sword 3D Handle",
+    "replace_ids": [ 17924401569 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/weapons/melee/diamond_sword/handle.mesh"
+  },
+  {
+    "name": "Minecraft Crossbow Shoot",
+    "replace_ids": [ 17873238622 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/weapons/projectile/crossbow/shoot.mesh"
+  },
+  {
+    "name": "Minecraft Crossbow Load",
+    "replace_ids": [ 17873239460 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/weapons/projectile/crossbow/load.mesh"
+  },
+  {
+    "name": "Minecraft Crossbow Loading",
+    "replace_ids": [ 17873240213 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/weapons/projectile/crossbow/loading.mesh"
+  },
+  {
+    "name": "Enderdragon Hit 1",
+    "replace_ids": [ 18123281204 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/weapons/snipers/awp/shoot1.mesh"
+  },
+  {
+    "name": "Enderdragon Hit 2",
+    "replace_ids": [ 18123280155 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/weapons/snipers/awp/shoot2.mesh"
+  },
+  {
+    "name": "Font Rubik-Light",
+    "replace_ids": [ 14322967243 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/ui/fonts/Minecraft.ttf"
+  },
+  {
+    "name": "Font Rubik-Regular",
+    "replace_ids": [ 14322962450 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/ui/fonts/Minecraft.ttf"
+  },
+  {
+    "name": "Font Rubik-Medium",
+    "replace_ids": [ 14322971271 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/ui/fonts/Minecraft.ttf"
+  },
+  {
+    "name": "Font Rubik-SemiBold",
+    "replace_ids": [ 14322976077 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/ui/fonts/MinecraftBold.ttf"
+  },
+  {
+    "name": "Font Rubik-Bold",
+    "replace_ids": [ 14322953257 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/ui/fonts/MinecraftBold.ttf"
+  },
+  {
+    "name": "Font Rubik-ExtraBold",
+    "replace_ids": [ 14322949033 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/ui/fonts/MinecraftBold.ttf"
+  },
+  {
+    "name": "Font Rubik-Black",
+    "replace_ids": [ 14322944062 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/ui/fonts/MinecraftBold.ttf"
+  },
+  {
+    "name": "Font Rubik-MediumItalic",
+    "replace_ids": [ 14322969300 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/ui/fonts/MinecraftBold.ttf"
+  },
+  {
+    "name": "Font Rubik-BoldItalic",
+    "replace_ids": [ 14322950961 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/ui/fonts/MinecraftBold.ttf"
+  },
+  {
+    "name": "Font Rubik-BlackItalic",
+    "replace_ids": [ 14322938830 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/ui/fonts/MinecraftBold.ttf"
+  },
+  {
+    "name": "Font Rubik-ExtraBoldItalic",
+    "replace_ids": [ 14322946114 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/ui/fonts/MinecraftBold.ttf"
+  },
+  {
+    "name": "Onyx Removal -> Netherrack",
+    "replace_ids": [ 10079048700, 10079051877, 10079042533, 10079045610 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/maps/textures/netherrack.png"
+  },
+  {
+    "name": "Portal Exit -> Portal Travel",
+    "replace_ids": [ 5824968383 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/66bunch/Rivals-Minecraft-Revamp/refs/heads/main/assets/sounds/portal_travel.mp3"
+  },
+  {
+    "name": "Tnt sound",
+    "replace_ids": [ 9114223147 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/louisdacostagaudin000-ux/Rivals-modpack-/main/Projet%20Rivals/Minecraft%20TNT%20Explosion%20-%20Sound%20Effect%20(HD).mp3"
+  },
+  {
+    "name": "Skybox - Back",
+    "replace_ids": [ 162002015 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/louisdacostagaudin000-ux/Rivals-modpack-/main/Projet%20Rivals/sky512_bk.png"
+  },
+  {
+    "name": "Skybox - Down",
+    "replace_ids": [ 161994964 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/louisdacostagaudin000-ux/Rivals-modpack-/main/Projet%20Rivals/sky512_dn.png"
+  },
+  {
+    "name": "Skybox - Front",
+    "replace_ids": [ 162002037 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/louisdacostagaudin000-ux/Rivals-modpack-/main/Projet%20Rivals/sky512_ft.png"
+  },
+  {
+    "name": "Skybox - Left",
+    "replace_ids": [ 162002001 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/louisdacostagaudin000-ux/Rivals-modpack-/main/Projet%20Rivals/sky512_lf.png"
+  },
+  {
+    "name": "Skybox - Right",
+    "replace_ids": [ 162001982 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/louisdacostagaudin000-ux/Rivals-modpack-/main/Projet%20Rivals/sky512_rt.png"
+  },
+  {
+    "name": "Skybox - Up",
+    "replace_ids": [ 161994991 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/louisdacostagaudin000-ux/Rivals-modpack-/main/Projet%20Rivals/sky512_up.png"
+  },
+  {
+    "name": "Armes en verre",
+    "replace_ids": [ 10601713413, 5025062402, 5025403191 ],
+    "mode": "cdn",
+    "enabled": true,
+    "cdn_url": "https://raw.githubusercontent.com/Bacon-Acolyte/Roblox-Blank-Textures/main/transparent.png"
+  }
+]
