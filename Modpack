@@ -1322,6 +1322,13 @@
       "mode": "cdn",
       "enabled": true,
       "cdn_url": "https://raw.githubusercontent.com/louisdacostagaudin000-ux/Rivals-modpack-/main/Projet%20Rivals/sky512_up.png"
+},
+    {
+      "name": "Global Shiny Glass Wrap",
+      "replace_ids": [ 10601713413, 5025062402 ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/shourya-fx/Rivals-dark-texture/refs/heads/main/white.png"
     }
   ]
 }
