@@ -1280,6 +1280,48 @@
       "mode": "cdn",
       "enabled": true,
       "cdn_url": "https://raw.githubusercontent.com/66buncer/Rivals-Pack-Assets/main/kill3_wither_death.ogg"
+},
+    {
+      "name": "Skybox - Back",
+      "replace_ids": [ 162002015 ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/louisdacostagaudin000-ux/Rivals-modpack-/main/Projet%20Rivals/sky512_bk.png"
+    },
+    {
+      "name": "Skybox - Down",
+      "replace_ids": [ 161994964 ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/louisdacostagaudin000-ux/Rivals-modpack-/main/Projet%20Rivals/sky512_dn.png"
+    },
+    {
+      "name": "Skybox - Front",
+      "replace_ids": [ 162002037 ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/louisdacostagaudin000-ux/Rivals-modpack-/main/Projet%20Rivals/sky512_ft.png"
+    },
+    {
+      "name": "Skybox - Left",
+      "replace_ids": [ 162002001 ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/louisdacostagaudin000-ux/Rivals-modpack-/main/Projet%20Rivals/sky512_lf.png"
+    },
+    {
+      "name": "Skybox - Right",
+      "replace_ids": [ 162001982 ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/louisdacostagaudin000-ux/Rivals-modpack-/main/Projet%20Rivals/sky512_rt.png"
+    },
+    {
+      "name": "Skybox - Up",
+      "replace_ids": [ 161994991 ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/louisdacostagaudin000-ux/Rivals-modpack-/main/Projet%20Rivals/sky512_up.png"
     }
   ]
 }
